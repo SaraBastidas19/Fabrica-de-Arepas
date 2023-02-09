@@ -1,0 +1,15 @@
+C:\Users\B09S107est\Desktop\FabricadorArepas\FabricadorArepas\bin\Debug\net6.0\FabricadorArepas.exe
+C:\Users\B09S107est\Desktop\FabricadorArepas\FabricadorArepas\bin\Debug\net6.0\FabricadorArepas.deps.json
+C:\Users\B09S107est\Desktop\FabricadorArepas\FabricadorArepas\bin\Debug\net6.0\FabricadorArepas.runtimeconfig.json
+C:\Users\B09S107est\Desktop\FabricadorArepas\FabricadorArepas\bin\Debug\net6.0\FabricadorArepas.dll
+C:\Users\B09S107est\Desktop\FabricadorArepas\FabricadorArepas\bin\Debug\net6.0\FabricadorArepas.pdb
+C:\Users\B09S107est\Desktop\FabricadorArepas\FabricadorArepas\obj\Debug\net6.0\FabricadorArepas.csproj.AssemblyReference.cache
+C:\Users\B09S107est\Desktop\FabricadorArepas\FabricadorArepas\obj\Debug\net6.0\FabricadorArepas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S107est\Desktop\FabricadorArepas\FabricadorArepas\obj\Debug\net6.0\FabricadorArepas.AssemblyInfoInputs.cache
+C:\Users\B09S107est\Desktop\FabricadorArepas\FabricadorArepas\obj\Debug\net6.0\FabricadorArepas.AssemblyInfo.cs
+C:\Users\B09S107est\Desktop\FabricadorArepas\FabricadorArepas\obj\Debug\net6.0\FabricadorArepas.csproj.CoreCompileInputs.cache
+C:\Users\B09S107est\Desktop\FabricadorArepas\FabricadorArepas\obj\Debug\net6.0\FabricadorArepas.dll
+C:\Users\B09S107est\Desktop\FabricadorArepas\FabricadorArepas\obj\Debug\net6.0\refint\FabricadorArepas.dll
+C:\Users\B09S107est\Desktop\FabricadorArepas\FabricadorArepas\obj\Debug\net6.0\FabricadorArepas.pdb
+C:\Users\B09S107est\Desktop\FabricadorArepas\FabricadorArepas\obj\Debug\net6.0\FabricadorArepas.genruntimeconfig.cache
+C:\Users\B09S107est\Desktop\FabricadorArepas\FabricadorArepas\obj\Debug\net6.0\ref\FabricadorArepas.dll
